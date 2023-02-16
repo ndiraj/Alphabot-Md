@@ -26,23 +26,23 @@ global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = sinhala //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
 global.botname = "Alphabot-Md" //namabot kalian
 global.ownername = "INDI" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
+global.myweb = "https://chat.whatsapp.com/G2Lm91Rdqs9Ej69V9Nwemf" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
 global.myweb2 = "/C:/Users/Ssamsung/Desktop/web/.htm" //bebas
 global.email = "idulanjana233@gmail.com" //bebas
 global.region = "Buddhist" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
-global.premium = ['94764497078'] //premium user
-global.owner = ["712102818", "94712102818"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "712102818" // nomor wa kalian
-global.ownernomerr = "+94712102818" //nmr wa kalian
+global.premium = ['94767139242'] //premium user
+global.owner = ["767139242", "94767139242"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "767139242" // nomor wa kalian
+global.ownernomerr = "+94767139242" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
